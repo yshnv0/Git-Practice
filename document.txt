@@ -5,3 +5,5 @@ Learning Git.
 Added a new line to the document. 
 
 Making some changes from the master branch.
+
+Just adding some lines to demonstrate git diff.

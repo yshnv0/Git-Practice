@@ -1,3 +1,5 @@
 This file is used for practicing git.
 
 Added a new line to the file
+
+Adding another new line to show git diff.
