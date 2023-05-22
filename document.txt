@@ -1,0 +1,3 @@
+This document is for practice purpose only.
+
+Learning Git.
