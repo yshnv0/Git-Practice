@@ -2,4 +2,6 @@ This document is for practice purpose only.
 
 Learning Git.
 
-Added a new line to the document.
+Added a new line to the document. 
+
+Making some changes from the master branch.
