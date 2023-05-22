@@ -1,3 +1,5 @@
 This document is for practice purpose only.
 
 Learning Git.
+
+Added a new line to the document.
